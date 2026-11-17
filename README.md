@@ -84,7 +84,9 @@ END
 
 
 ## OUTPUT
-<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/28c1c477-669a-4d80-9ef3-7c1187885808" />
+
+<img width="1907" height="1012" alt="image" src="https://github.com/user-attachments/assets/95a9f142-5b41-4267-aab0-0fd24a4ec6d5" />
+
 
 
 ## RESULT
